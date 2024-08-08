@@ -23,12 +23,8 @@ Este enfoque permite comparar el comportamiento de los usuarios en diferentes re
 
 * scipy
 
-## 📊 ¡Mira mi Notebook!
-
-👉 Puedes ver el análisis completo en el notebook de **Jupyter** para obtener todos los detalles del proceso.
-
 ## Hecho por:
 
-### Adriana Delgado en TripleTen
+# Adriana Delgado en TripleTen
 
-### Linkedin: https://www.linkedin.com/in/adriana-delgado-profile/
+# Linkedin: https://www.linkedin.com/in/adriana-delgado-profile/
