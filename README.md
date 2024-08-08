@@ -12,3 +12,7 @@ El análisis se desarrolla en tres etapas:
 3. **Prueba de hipótesis**: Verificación de las hipótesis planteadas mediante análisis estadístico.
 
 Este enfoque permite comparar el comportamiento de los usuarios en diferentes regiones y plataformas, ayudando a entender qué factores contribuyen al éxito de un videojuego.
+
+## 📊 ¡Mira mi Notebook!
+
+👉 Puedes ver el análisis completo en el notebook de **Jupyter** para obtener todos los detalles del proceso.
