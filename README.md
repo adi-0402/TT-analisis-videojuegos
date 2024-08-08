@@ -25,6 +25,6 @@ Este enfoque permite comparar el comportamiento de los usuarios en diferentes re
 
 ## Hecho por:
 
-# Adriana Delgado en TripleTen
+### Adriana Delgado en TripleTen
 
-# Linkedin: https://www.linkedin.com/in/adriana-delgado-profile/
+### Linkedin: https://www.linkedin.com/in/adriana-delgado-profile/
