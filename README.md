@@ -17,5 +17,5 @@ El proyecto tiene como objetivo identificar patrones que influyen en el éxito d
 - NumPy
 - Matplotlib
 - Seaborn
-- Scipy
+- SciPy
 - Jupyter Notebook
