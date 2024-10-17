@@ -19,3 +19,6 @@ El proyecto tiene como objetivo identificar patrones que influyen en el éxito d
 - Seaborn
 - SciPy
 - Jupyter Notebook
+
+## ✨ Conclusiones
+- 
