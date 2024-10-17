@@ -21,4 +21,6 @@ El proyecto tiene como objetivo identificar patrones que influyen en el éxito d
 - Jupyter Notebook
 
 ## ✨ Conclusiones
-- 
+- `Reseñas y ventas correlacionadas`: Los juegos con mejores calificaciones tienden a generar más ventas, indicando una relación positiva entre rankings y éxito comercial.
+- `Preferencias regionales`: Los géneros de videojuegos más populares varían entre regiones, lo que resalta la importancia de adaptar estrategias según el mercado local.
+- `Validación de hipótesis`: Se comprobó que las reseñas promedio entre dos géneros de juegos no son necesariamente iguales, aportando información sobre las percepciones de los jugadores hacia distintos géneros.
