@@ -1,26 +1,53 @@
-# Análisis Predictivo del Mercado de Videojuegos
-![GitHub](https://img.shields.io/badge/GitHub-Repository-lightgrey)
-![Estado](https://img.shields.io/badge/Estado-Terminado-brightgreen)
+---
 
-## 📖 Descripción del Proyecto
-El proyecto tiene como objetivo identificar patrones que influyen en el éxito de los videojuegos utilizando datos de ventas, reseñas y calificaciones. A partir de un conjunto de datos desde 2016, se analizarán variables como géneros, plataformas y desempeño en el mercado. Este proyecto se realizo con Tripleten.
+# **Análisis Predictivo del Mercado de Videojuegos**
 
-## 💻 Demostración de Funciones y Aplicaciones
-- `Análisis Exploratorio de Datos (EDA)`: Visualización y análisis de tendencias en ventas y calificaciones de videojuegos por plataforma y género.
-- `Limpieza y Preparación de Datos`: Procesamiento de datos faltantes y transformación para garantizar la calidad de los análisis.
-- `Visualización de Resultados`: Gráficas y tablas que muestran los hallazgos del análisis, facilitando la comprensión de los datos.
-- `Pruebas de Hipótesis`: Evaluación de hipótesis sobre calificaciones promedio entre diferentes plataformas y géneros, utilizando métodos estadísticos.
+---
 
-## 🛠 Tecnologías Utilizadas
+## 🔖 **Descripción del Proyecto**
+Este proyecto analiza datos históricos de ventas de videojuegos con el objetivo de identificar patrones clave que determinen el éxito de los títulos en diferentes plataformas y regiones. También se realizan pruebas de hipótesis sobre calificaciones de usuarios y géneros para obtener conclusiones que puedan apoyar estrategias en la industria de los videojuegos. Este proyecto se realizo con TripleTen
+
+---
+
+## 💻 **Funcionalidades**
+- **Análisis Exploratorio de Datos (EDA):**
+  - Identificación de plataformas y géneros más populares según región.
+  - Análisis de correlaciones entre calificaciones de usuarios/críticos y ventas.
+- **Pruebas de Hipótesis:**
+  - Comparación de calificaciones promedio de usuarios entre plataformas y géneros.
+- **Transformaciones de Datos:**
+  - Limpieza de datos, tratamiento de valores nulos y creación de métricas adicionales como ventas totales.
+
+---
+
+## 🛠️ **Tecnologías Utilizadas**
 - Python
 - Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- SciPy
-- Jupyter Notebook
+- NumPy 
+- Matplotlib 
+- Seaborn 
+- Scipy
 
-## ✨ Conclusiones
-- `Reseñas y ventas correlacionadas`: Los juegos con mejores calificaciones tienden a generar más ventas, indicando una relación positiva entre rankings y éxito comercial.
-- `Preferencias regionales`: Los géneros de videojuegos más populares varían entre regiones, lo que resalta la importancia de adaptar estrategias según el mercado local.
-- `Validación de hipótesis`: Se comprobó que las reseñas promedio entre dos géneros de juegos no son necesariamente iguales, aportando información sobre las percepciones de los jugadores hacia distintos géneros.
+---
+
+## 🔢 **Resultados**
+- **Plataformas y Regiones:**
+  - **PS4** lidera ventas globales; **3DS** es más popular en Japón.
+  - Los géneros de **Acción** y **Role-Playing** son los más vendidos globalmente, con variaciones por región.
+- **Correlaciones:**
+  - Las calificaciones de usuarios (correlación de 0.28) y críticos (correlación de 0.38) tienen una influencia positiva en las ventas.
+- **Pruebas de Hipótesis:**
+  - No se rechazó la hipótesis nula sobre calificaciones promedio iguales entre Xbox One y PC.
+  - Se rechazó la hipótesis nula sobre calificaciones promedio iguales entre los géneros de Acción y Deportes.
+
+---
+
+## ✨ **Conclusiones**
+- **Patrones Regionales:**
+  - Las plataformas y géneros preferidos varían según la región. Por ejemplo, Japón favorece la 3DS y géneros como Simulación.
+- **Impacto de Calificaciones:**
+  - Las calificaciones positivas tienen un impacto moderado en las ventas, especialmente en plataformas populares.
+- **Recomendaciones:**
+  - Optimizar lanzamientos basados en preferencias regionales y priorizar la calidad según críticas de usuarios y expertos.
+
+---
